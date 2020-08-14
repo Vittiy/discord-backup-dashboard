@@ -1,3 +1,7 @@
+# Config
+config/configuration.js
+config/credentials.js
+
 # Logs
 logs
 *.log
